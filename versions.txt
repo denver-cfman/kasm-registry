@@ -1,1 +1,1 @@
-denver-cfman-patch-1
+1.0
