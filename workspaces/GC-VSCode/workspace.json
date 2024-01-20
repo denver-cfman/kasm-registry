@@ -2,7 +2,7 @@
   "description": "Giezen Consulting Custom version of VSCode Server",
   "docker_registry": "https://registry.gitlab.com/",
   "image_src": "vscode.png",
-  "name": "denver.cfman/nginx-home-lab-proxy:latest",
+  "name": "denver.cfman/custom-kasm-vscode:latest",
   "run_config": {
     "hostname": "gc-kasm-vscode"
   },
