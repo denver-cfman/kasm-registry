@@ -1,0 +1,23 @@
+{
+  "description": "Giezen Consulting Custom version of VSCode Server",
+  "docker_registry": "https://registry.gitlab.com/",
+  "image_src": "vscode.png",
+  "name": "denver.cfman/custom-kasm-vscode:latest",
+  "run_config": {
+    "hostname": "gc-kasm-vscode"
+  },
+  "exec_config": {
+  },
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "GC-VSCode",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.13.x",
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 2170
+}
