@@ -1,0 +1,22 @@
+{
+  "description": "Giezen Consulting Custom version of Pinoko Computer",
+  "docker_registry": "https://registry.gitlab.com/",
+  "image_src": "pinokio.png",
+  "name": "registry.gitlab.com/denver.cfman/custom-kasm-pinokio:latest",
+  "run_config": {
+    "hostname": "gc-kasm-pinokio"
+  },
+  "exec_config": {
+  },
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "Pinokio",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 2398
+}
