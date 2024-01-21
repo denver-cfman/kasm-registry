@@ -7,7 +7,11 @@
     "hostname": "gc-kasm-pinokio"
   },
   "exec_config": {
-  },
+  "first_launch": {
+    "user": "root",
+    "cmd": "bash -c 'apt-get update && apt-get install -y sudo && echo \"kasm-user  ALL=(ALL) NOPASSWD: ALL\" >> /etc/sudoers'"
+  }
+},
   "categories": [
     "Development"
   ],
