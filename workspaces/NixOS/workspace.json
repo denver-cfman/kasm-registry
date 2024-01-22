@@ -1,0 +1,22 @@
+{
+  "description": "Giezen Consulting Custom version of NixOS Env.",
+  "docker_registry": "https://index.docker.io/v1/",
+  "image_src": "nixos.png",
+  "name": "nixos/nix:latest",
+  "run_config": {
+    "hostname": "gc-kasm-nixos"
+  },
+  "exec_config": {
+  },
+  "categories": [
+    "Development"
+  ],
+  "friendly_name": "NixOS",
+  "architecture": [
+    "amd64"
+  ],
+  "compatibility": [
+    "1.14.x"
+  ],
+  "uncompressed_size_mb": 192
+}
